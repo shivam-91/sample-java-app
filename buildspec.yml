@@ -19,6 +19,5 @@ phases:
       - echo Build completed
 artifacts:
   files:
-    - 'appspec.yml'
     - 'scripts/*'
     - 'target/ROOT.war'
